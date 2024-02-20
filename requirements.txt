@@ -1,0 +1,9 @@
+chromedriver_autoinstaller==0.6.3
+Cython==3.0.8
+jsonpath==0.82
+numpy==1.21.6
+Pillow==9.5.0
+PyAutoGUI==0.9.54
+pywin32==306
+PyYAML==6.0
+Requests==2.31.0
